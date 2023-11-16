@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
 }
 a{
   color: inherit;
@@ -15,8 +16,9 @@ ul{
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height: 100%;
+  min-height: 600px;
 
 }
 .options{
@@ -51,7 +53,7 @@ ul{
   right: 60px;
   box-shadow: 0px 0px 2px #191919;
   background-color: #292929;
-  color: #848484;
+  color: #fff;
 }
 .ventana-option_header{
   text-align: right;
@@ -59,9 +61,63 @@ ul{
   color: #fff;
 }
 .ventana-option_title, .ventana-option_subtitle{
-  color: #848484;
-  padding: 4px;
+  color: #fff;
+  padding: 10px;
 }
 .ventana-option_parrafo, .ventana-option_list{
-  padding: 4px;
+  padding: 10px;
+}
+.contact{
+  background-color: #252525;
+  width: 600px;
+  right: 20vw;
+}
+.ventana-option__container0{
+  display: flex;
+  padding: 15px;
+  width: 100%;
+}
+.ventana-option__container1,.ventana-option__container2{
+  width: 50%;
+}
+
+.ventana-option__container1{
+ margin-right: 20px;
+}
+.ventana-option__container1__titulo{
+  font-size: 16px;
+}
+.ventana-option__container1__tema{
+  font-size: 25px;
+  margin: 2.5px 0px 5px 0px;
+}
+.ventana-option__container1__parrafo1, .ventana-option__container1__parrafo2{
+  font-size: 14px;
+}
+.ventana-option__container2{
+display: flex;
+align-items: center;
+justify-content: center;
+height: 330px;
+padding-right: 20px;
+}
+.ventana-option__container2__form{
+  height: 80%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+ 
+}
+.inputs_form_contact{
+  height: 30px;
+  padding: 5px;
+  outline: none;
+}
+.ventana-option__container2__asunto{
+  resize: none;
+  height: 130px;
+}
+.ventana-option__container2__submit{
+  cursor: pointer;
 }
