@@ -121,3 +121,8 @@ padding-right: 20px;
 .ventana-option__container2__submit{
   cursor: pointer;
 }
+.works{
+  top: 20px;
+  width: 1000px;
+  height: 700px;
+}
