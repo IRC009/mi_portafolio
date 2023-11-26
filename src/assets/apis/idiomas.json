@@ -1,0 +1,395 @@
+{
+  "es": {
+    "about": {
+      "ventanaOption_title": "Hola, soy Isaac, un Desarrollador de software enfocado en la implementación tecnológica en las empresas.",
+      "ventanaOption_parrafo": "Con el desarrollo de software y mis conocimientos en el sector empresarial, impulso la implementación tecnológica en las empresas, ofreciendo soluciones innovadoras y efectivas. Destaco en el trabajo en equipo y el liderazgo. Estoy aquí para ayudar a tu empresa a crecer y superar desafíos. ¡Gracias por visitar mi perfil! Espero con entusiasmo la oportunidad de conectarnos pronto.",
+      "ventanaOption_subtitle": "Estudios que avalan mis conocimientos",
+      "ventanaOption_list": {
+        "0": "Carrera Profesional en Administración de Empresas",
+        "1": "Tecnólogo en Análisis y Desarrollo de Software",
+        "2": "Curso de Marketing Digital"
+      }
+    },
+    "os": {
+      "papelera": "Papelera",
+      "habilidades": "Habilidades",
+      "trabajos": "Proyectos",
+      "contacto": "Contáctame",
+      "sobreMi": "Sobre mí"
+    },
+    "contacto": {
+      "container1__tema": "Agendamientos de asesorías",
+      "container1__parrafo1": "Bienvenido/a a nuestra sesión de asesoría de 1 hora, donde podemos revisar y mejorar juntos tu proyecto, ya sea web, móvil o Backend. Durante nuestra colaboración, abordaremos errores, introduciremos nuevas tecnologías o incluso escribiremos código en conjunto. La sesión será grabada para tu conveniencia. No dude en contactarme y acordaremos una fecha y hora para la reunión",
+      "container1__parrafo2": "El costo de esta asesoría es de 20 dólares y puedes realizar el pago a través de Stripe o Paypal",
+      "nombre": "Nombre",
+      "correo": "Correo electrónico",
+      "asunto": "Asunto de la reunión",
+      "enviar": "Enviar"
+    },
+    "works": {
+      "h1": "Proyectos realizados",
+      "option": "Filtrar tecnologías",
+
+      "proyectos": {
+        "mundoCurioso": {
+          "img": "/assets/mundo-curioso-07f6adb1.jpg",
+          "titulo": "Blog Mundo Curioso",
+          "parrafo": "Este blog, se centra en explorar temas culturales y de viajes. Fue creado para una página de Facebook.",
+          "gitHub": "https://github.com/IRC009/Mundo-Curioso",
+          "urlWeb": "https://www.mundocurioso.website/",
+          "tecnologias": {
+            "html": {
+              "nombre": "HTML",
+              "img": "/assets/html-5-ec824463.png"
+            },
+            "css": {
+              "nombre": "CSS",
+              "img": "/assets/css-562c5b25.png"
+            },
+            "js": {
+              "nombre": "JavaScript",
+              "img": "/assets/js-30558d7e.png"
+            },
+            "Node.js": {
+              "nombre": "Node.js",
+              "img": "/assets/nodo-js-8852d2b9.png"
+            },
+            "MongoDB": {
+              "nombre": "MongoDB",
+              "img": "/assets/mongodb-fedbcc5f.png"
+            }
+          }
+        },
+        "countriesApi": {
+          "img": "/assets/countries-7cf40509.jpg",
+          "titulo": "Buscador de Países",
+          "parrafo": "Página que consulta una API para brindar información sobre todos los países del mundo.",
+          "gitHub": "https://github.com/IRC009/Countries",
+          "urlWeb": "https://countries-5e338.web.app/",
+          "tecnologias": {
+            "html": {
+              "nombre": "HTML",
+              "img": "/assets/html-5-ec824463.png"
+            },
+            "css": {
+              "nombre": "CSS",
+              "img": "/assets/css-562c5b25.png"
+            },
+            "js": {
+              "nombre": "JavaScript",
+              "img": "/assets/js-30558d7e.png"
+            },
+            "React": {
+              "nombre": "React",
+              "img": "/assets/react--a9d6635b.png"
+            },
+            "Firebase": {
+              "nombre": "MongoDB",
+              "img": "/assets/firebase-2d42bc8c.png"
+            }
+          }
+        },
+        "unatsi": {
+          "img": "/assets/Unatsi-dbf75e24.jpg",
+          "titulo": "Unatsi",
+          "parrafo": "Landing page para un modelo de negocios de suscripción centrado en la venta de cursos. ",
+          "gitHub": "https://github.com/IRC009/unatsi",
+          "urlWeb": "https://unatsi-72eb21a4401f.herokuapp.com/",
+          "tecnologias": {
+            "html": {
+              "nombre": "HTML",
+              "img": "/assets/html-5-ec824463.png"
+            },
+            "css": {
+              "nombre": "CSS",
+              "img": "/assets/css-562c5b25.png"
+            },
+            "js": {
+              "nombre": "JavaScript",
+              "img": "/assets/js-30558d7e.png"
+            },
+            "Node.js": {
+              "nombre": "Node.js",
+              "img": "/assets/nodo-js-8852d2b9.png"
+            },
+            "MongoDB": {
+              "nombre": "MongoDB",
+              "img": "/assets/mongodb-fedbcc5f.png"
+            }
+          }
+        },
+        "treasureIsland": {
+          "img": "/assets/Treasure-b3f72587.jpg",
+          "titulo": "Juego: Treasure Island",
+          "parrafo": "Videojuego de aventura en plataforma disponible en la PlayStore para dispositivos móviles.",
+          "gitHub": "no disponible",
+          "urlWeb": "https://play.google.com/store/apps/details?id=com.NoonGame.TreasureIsland&hl=es_PR",
+          "tecnologias": {
+            "Unity": {
+              "nombre": "Unity",
+              "img": "/assets/unity-fb8f8e39.png"
+            },
+            "C#": {
+              "nombre": "C#",
+              "img": "/assets/c--5c6bfa4f.png"
+            },
+            "js": {
+              "nombre": "JavaScript",
+              "img": "/assets/js-30558d7e.png"
+            },
+            "Node.js": {
+              "nombre": "Node.js",
+              "img": "/assets/nodo-js-8852d2b9.png"
+            },
+            "MongoDB": {
+              "nombre": "MongoDB",
+              "img": "/assets/mongodb-fedbcc5f.png"
+            },
+            "Firebase": {
+              "nombre": "MongoDB",
+              "img": "/assets/firebase-2d42bc8c.png"
+            }
+          }
+        },
+        "canalYoutube": {
+          "img": "/assets/CanalYoutube-7eef63d1.jpg",
+          "titulo": "Canal Personal de Youtube",
+          "parrafo": "Canal personal que ofrece tutoriales de programación en diversas tecnologías, para principiantes e intermedios.",
+          "gitHub": "no disponible",
+          "urlWeb": "https://www.youtube.com/@IsaacRodasC",
+          "tecnologias": {
+            "html": {
+              "nombre": "HTML",
+              "img": "/assets/html-5-ec824463.png"
+            },
+            "css": {
+              "nombre": "CSS",
+              "img": "/assets/css-562c5b25.png"
+            },
+            "js": {
+              "nombre": "JavaScript",
+              "img": "/assets/js-30558d7e.png"
+            },
+            "Node.js": {
+              "nombre": "Node.js",
+              "img": "/assets/nodo-js-8852d2b9.png"
+            },
+            "MongoDB": {
+              "nombre": "MongoDB",
+              "img": "/assets/mongodb-fedbcc5f.png"
+            },
+            "React": {
+              "nombre": "React",
+              "img": "/assets/react--a9d6635b.png"
+            },
+            "Unity": {
+              "nombre": "Unity",
+              "img": "/assets/unity-fb8f8e39.png"
+            }
+          }
+        }
+      }
+    },
+    "skills": {
+      "titulo": "Perfil de Habilidades para Desarrollador Web Full-Stack:",
+      "introduccion": "Como desarrollador web Full-Stack, poseo una sólida combinación de habilidades técnicas y creativas que me permite construir experiencias web impactantes y funcionales. Aquí hay un vistazo a lo que puedo ofrecer:",
+      "items": "<li><strong>Desarrollo Frontend Innovador:</strong> Creo interfaces de usuario modernas y atractivas utilizando React.js, proporcionando experiencias dinámicas y de usuario excepcionales.</li> <li><strong>Diseño Responsivo y Estilizado:</strong> Implemento diseños responsivos utilizando HTML y CSS para garantizar una experiencia fluida en dispositivos de todos los tamaños.</li> <li><strong>Backend Potente con Node.js:</strong> Desarrollo servidores robustos y eficientes con Node.js, aprovechando su velocidad y escalabilidad para impulsar aplicaciones web de alto rendimiento.</li> <li><strong>Base de Datos Ágil con MongoDB:</strong> Utilizo MongoDB para diseñar y gestionar bases de datos NoSQL, asegurando un almacenamiento eficiente y una recuperación rápida de datos.</li> <li><strong>Integración sin Fisuras:</strong> Conecto el frontend y el backend de manera efectiva, integrando servicios y APIs externas para dotar a las aplicaciones de funcionalidades avanzadas.</li><li><strong>Desarrollo Completo de Aplicaciones:</strong> Tengo experiencia en el desarrollo integral de aplicaciones web, desde la concepción de la interfaz hasta la implementación del backend, proporcionando soluciones completas.</li> <li><strong>Experiencia en Tiempo Real:</strong> Implemento funcionalidades en tiempo real mediante tecnologías como Socket.io, llevando la interactividad de las aplicaciones a un nuevo nivel.</li> <li><strong>Seguridad en el Desarrollo:</strong> Aplico prácticas de seguridad sólidas para proteger las aplicaciones contra amenazas, garantizando la integridad y confidencialidad de los datos.</li> <li><strong>Despliegue Eficiente:</strong> Despliego aplicaciones de manera eficiente utilizando servicios como Firebase Hosting, asegurando una disponibilidad constante.</li> <li><strong>Colaboración Efectiva:</strong> Trabajo de cerca con diseñadores para transformar conceptos en interfaces visuales atractivas y altamente funcionales.</li> <li><strong>Enfoque en la Mejora Continua:</strong> Me mantengo actualizado con las últimas tecnologías y adopto mejores prácticas para garantizar un desarrollo eficiente y de vanguardia.</li><li><strong>Resolución Proactiva de Problemas:</strong> Identifico y resuelvo problemas de manera proactiva, asegurando la estabilidad y el rendimiento óptimo de las aplicaciones.</li>"
+    }
+  },
+  "en": {
+    "about": {
+      "ventanaOption_title": "Hello, I'm Isaac, a software developer focused on technological implementation in businesses.",
+      "ventanaOption_parrafo": "With software development and my expertise in the business sector, I drive technological implementation in companies by offering innovative and effective solutions. I excel in teamwork and leadership. I am here to help your company grow and overcome challenges. Thank you for visiting my profile! I look forward to the opportunity to connect with you soon.",
+      "ventanaOption_subtitle": "Studies that support my knowledge.",
+      "ventanaOption_list": {
+        "0": "Professional Career in Business Administration",
+        "1": "Software Analysis and Development Technologist",
+        "2": "Digital Marketing Course"
+      }
+    },
+    "os": {
+      "papelera": "Recycle bin",
+      "habilidades": "Skills",
+      "trabajos": "Works",
+      "contacto": "Contact",
+      "sobreMi": "About"
+    },
+    "contacto": {
+      "container1__tema": "Consultation Appointments",
+      "container1__parrafo1": "Welcome to our 1-hour consultation session, where we can review and improve your project together, whether it's web, mobile, or backend. During our collaboration, we'll address issues, introduce new technologies, or even write code together. The session will be recorded for your convenience. Feel free to contact me, and we will arrange a date and time for the meeting.",
+      "container1__parrafo2": "The cost of this consultation is $20, and you can make the payment through Stripe or Paypal",
+      "nombre": "Name",
+      "correo": "Email",
+      "asunto": "Meeting Subject",
+      "enviar": "Send"
+    },
+    "works": {
+      "h1": "Completed Projects",
+      "option": "Filter Technologies",
+      "proyectos": {
+        "mundoCurioso": {
+          "titulo": "Curious World Blog",
+          "parrafo": "This blog focuses on exploring cultural and travel topics. It was created for a Facebook page.",
+          "gitHub": "https://github.com/IRC009/Mundo-Curioso",
+          "urlWeb": "https://www.mundocurioso.website/",
+          "img": "/assets/mundo-curioso-07f6adb1.jpg",
+          "tecnologias": {
+            "html": {
+              "nombre": "HTML",
+              "img": "/assets/html-5-ec824463.png"
+            },
+            "css": {
+              "nombre": "CSS",
+              "img": "/assets/css-562c5b25.png"
+            },
+            "js": {
+              "nombre": "JavaScript",
+              "img": "/assets/js-30558d7e.png"
+            },
+            "Node.js": {
+              "nombre": "Node.js",
+              "img": "/assets/nodo-js-8852d2b9.png"
+            },
+            "MongoDB": {
+              "nombre": "MongoDB",
+              "img": "/assets/mongodb-fedbcc5f.png"
+            }
+          }
+        },
+        "countriesApi": {
+          "titulo": "Country Search Engine",
+          "parrafo": "Page that queries an API to provide information about all the countries in the world.",
+          "gitHub": "https://github.com/IRC009/Countries",
+          "urlWeb": "https://countries-5e338.web.app/",
+          "img": "/assets/countries-7cf40509.jpg",
+          "tecnologias": {
+            "html": {
+              "nombre": "HTML",
+              "img": "/assets/html-5-ec824463.png"
+            },
+            "css": {
+              "nombre": "CSS",
+              "img": "/assets/css-562c5b25.png"
+            },
+            "js": {
+              "nombre": "JavaScript",
+              "img": "/assets/js-30558d7e.png"
+            },
+            "React": {
+              "nombre": "React",
+              "img": "/assets/react--a9d6635b.png"
+            },
+            "Firebase": {
+              "nombre": "MongoDB",
+              "img": "/assets/firebase-2d42bc8c.png"
+            }
+          }
+        },
+        "unatsi": {
+          "titulo": "Unatsi",
+          "parrafo": "Landing page for a subscription business model focused on selling courses.",
+          "gitHub": "https://github.com/IRC009/unatsi",
+          "urlWeb": "https://unatsi-72eb21a4401f.herokuapp.com/",
+          "img": "/assets/Unatsi-dbf75e24.jpg",
+          "tecnologias": {
+            "html": {
+              "nombre": "HTML",
+              "img": "/assets/html-5-ec824463.png"
+            },
+            "css": {
+              "nombre": "CSS",
+              "img": "/assets/css-562c5b25.png"
+            },
+            "js": {
+              "nombre": "JavaScript",
+              "img": "/assets/js-30558d7e.png"
+            },
+            "Node.js": {
+              "nombre": "Node.js",
+              "img": "/assets/nodo-js-8852d2b9.png"
+            },
+            "MongoDB": {
+              "nombre": "MongoDB",
+              "img": "/assets/mongodb-fedbcc5f.png"
+            }
+          }
+        },
+        "treasureIsland": {
+          "titulo": "Game: Treasure Island",
+          "parrafo": "Adventure platform video game available on the PlayStore for mobile devices.",
+          "gitHub": "no disponible",
+          "urlWeb": "https://play.google.com/store/apps/details?id=com.NoonGame.TreasureIsland&hl=es_PR",
+          "img": "/assets/Treasure-b3f72587.jpg",
+          "tecnologias": {
+            "Unity": {
+              "nombre": "Unity",
+              "img": "/assets/unity-fb8f8e39.png"
+            },
+            "C#": {
+              "nombre": "C#",
+              "img": "/assets/c--5c6bfa4f.png"
+            },
+            "js": {
+              "nombre": "JavaScript",
+              "img": "/assets/js-30558d7e.png"
+            },
+            "Node.js": {
+              "nombre": "Node.js",
+              "img": "/assets/nodo-js-8852d2b9.png"
+            },
+            "MongoDB": {
+              "nombre": "MongoDB",
+              "img": "/assets/mongodb-fedbcc5f.png"
+            },
+            "Firebase": {
+              "nombre": "MongoDB",
+              "img": "/assets/firebase-2d42bc8c.png"
+            }
+          }
+        },
+        "canalYoutube": {
+          "img": "/assets/CanalYoutube-7eef63d1.jpg",
+          "titulo": "Personal YouTube Channel",
+          "parrafo": "Channel offering programming tutorials in various technologies, for beginners and intermediates.",
+          "gitHub": "no disponible",
+          "urlWeb": "https://www.youtube.com/@IsaacRodasC",
+          "tecnologias": {
+            "html": {
+              "nombre": "HTML",
+              "img": "/assets/html-5-ec824463.png"
+            },
+            "css": {
+              "nombre": "CSS",
+              "img": "/assets/css-562c5b25.png"
+            },
+            "js": {
+              "nombre": "JavaScript",
+              "img": "/assets/js-30558d7e.png"
+            },
+            "Node.js": {
+              "nombre": "Node.js",
+              "img": "/assets/nodo-js-8852d2b9.png"
+            },
+            "MongoDB": {
+              "nombre": "MongoDB",
+              "img": "/assets/mongodb-fedbcc5f.png"
+            },
+            "React": {
+              "nombre": "React",
+              "img": "/assets/react--a9d6635b.png"
+            },
+            "Unity": {
+              "nombre": "Unity",
+              "img": "/assets/unity-fb8f8e39.png"
+            }
+          }
+        }
+      }
+    },
+    "skills": {
+      "titulo": "Full-Stack Web Developer Skills Profile:",
+      "introduccion": "As a Full-Stack web developer, I possess a strong combination of technical and creative skills that enables me to build impactful and functional web experiences. Here's a glimpse of what I bring to the table:",
+      "items": "<li><strong>Innovative Frontend Development:</strong> I create modern and engaging user interfaces using React.js, providing dynamic and exceptional user experiences.</li> <li><strong>Responsive and Stylish Design:</strong> I implement responsive designs using HTML and CSS to ensure a seamless experience across devices of all sizes.</li> <li><strong>Powerful Backend with Node.js:</strong> I develop robust and efficient servers with Node.js, leveraging its speed and scalability to drive high-performance web applications.</li> <li><strong>Agile Database with MongoDB:</strong> I use MongoDB to design and manage NoSQL databases, ensuring efficient storage and quick data retrieval.</li> <li><strong>Seamless Integration:</strong> I effectively connect the frontend and backend, integrating external services and APIs to empower applications with advanced functionalities.</li><li><strong>End-to-End Application Development:</strong> I have experience in the comprehensive development of web applications, from UI conception to backend implementation, providing complete solutions.</li> <li><strong>Real-Time Experience:</strong> I implement real-time features using technologies like Socket.io, taking application interactivity to new heights.</li> <li><strong>Development Security:</strong> I apply robust security practices to protect applications against threats, ensuring data integrity and confidentiality.</li> <li><strong>Efficient Deployment:</strong> I deploy applications efficiently using services like Firebase Hosting, ensuring constant availability.</li> <li><strong>Effective Collaboration:</strong> I work closely with designers to transform concepts into visually appealing and highly functional interfaces.</li> <li><strong>Continuous Improvement Focus:</strong> I stay updated with the latest technologies and adopt best practices to ensure efficient and cutting-edge development.</li><li><strong>Proactive Problem Solving:</strong> I identify and resolve issues proactively, ensuring the stability and optimal performance of applications.</li>"
+    }
+  }
+}

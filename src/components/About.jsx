@@ -1,28 +1,26 @@
 import { Link } from "react-router-dom";
+import {useGlobalState} from '../context/GlobalState'
 
 function About() {
+  const data = useGlobalState().values;
+  const idioma = data.idioma;
+  const lenguaje = data.lenguaje[idioma].about
   return (
     <article className="about ventana-option">
       <header className="ventana-option_header">
         <Link to={"/"}>X</Link>
       </header>
       <h1 className="ventana-option_title">
-        Hola, soy Isaac, un Desarrollador de software enfocado en la
-        implementación tecnológica en las empresas.
+        {lenguaje.ventanaOption_title}
       </h1>
       <p className="ventana-option_parrafo">
-        Con el desarrollo de software y mis conocimientos en el sector
-        empresarial, impulso la implementación tecnológica en las empresas,
-        ofreciendo soluciones innovadoras y efectivas. Destaco en el trabajo en
-        equipo y el liderazgo. Estoy aquí para ayudar a tu empresa a crecer y
-        superar desafíos. ¡Gracias por visitar mi perfil! Espero con entusiasmo
-        la oportunidad de conectarnos pronto.
+        {lenguaje.ventanaOption_parrafo}
       </p>
-      <h2 className="ventana-option_subtitle">Estudios que avalan mis conocimientos</h2>
+      <h2 className="ventana-option_subtitle">{lenguaje.ventanaOption_subtitle}</h2>
       <ul className="ventana-option_list">
-        <li>Carrera Profesional en Administración de Empresas</li>
-        <li>Tecnólogo en Análisis y Desarrollo de Software</li>
-        <li>Curso de Marketing Digital</li>
+        <li>{lenguaje.ventanaOption_list[0]}</li>
+        <li>{lenguaje.ventanaOption_list[1]}</li>
+        <li>{lenguaje.ventanaOption_list[2]}</li>
       </ul>
     </article>
   );
